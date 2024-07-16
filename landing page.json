@@ -1,0 +1,25 @@
+{
+  "doctype": "html",
+  "lang": "en",
+  "head": {
+    "meta": [
+      { "charset": "UTF-8" },
+      { "name": "viewport", "content": "width=device-width, initial-scale=1.0" }
+    ],
+    "title": "Welcome to Our Website"
+  },
+  "body": {
+    "header": {
+      "h1": "Welcome to Our Website"
+    },
+    "sections": [
+      {
+        "p": "A warm greeting to you! We're delighted to have you here."
+      }
+      // Add more sections as needed
+    ],
+    "footer": {
+      "p": "Thank you for visiting!"
+    }
+  }
+}
